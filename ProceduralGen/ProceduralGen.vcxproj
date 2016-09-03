@@ -26,7 +26,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="TGA-mandelbrot.cpp" />
+    <ClCompile Include="TGA-Mandelbrot.cpp" />
     <ClCompile Include="TGA-GameOfLife.cpp" />
     <ClCompile Include="TGA-Image.cpp" />
     <ClCompile Include="TGA-Mountain.cpp" />

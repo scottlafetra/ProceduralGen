@@ -38,10 +38,10 @@
     <ClCompile Include="TGA-GameOfLife.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="TGA-mandelbrot.cpp">
+    <ClCompile Include="TGA-Mountain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="TGA-Mountain.cpp">
+    <ClCompile Include="TGA-Mandelbrot.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
